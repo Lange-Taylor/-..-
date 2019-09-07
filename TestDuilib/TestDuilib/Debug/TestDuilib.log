@@ -1,0 +1,9 @@
+﻿  DuilibTest.cpp
+c:\users\administrator\source\repos\testduilib\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+c:\users\administrator\source\repos\testduilib\testduilib\duilibtest.cpp(293): warning C4101: “msg”: 未引用的局部变量
+  Login.cpp
+c:\users\administrator\source\repos\testduilib\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  MainWnd.cpp
+c:\users\administrator\source\repos\testduilib\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  正在生成代码...
+  TestDuilib.vcxproj -> C:\Users\Administrator\source\repos\TestDuilib\Debug\TestDuilib.exe

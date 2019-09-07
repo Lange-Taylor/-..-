@@ -1,0 +1,4 @@
+﻿  MainWnd.cpp
+c:\users\administrator\source\repos\testduilib\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+c:\users\administrator\source\repos\testduilib\testduilib\mainwnd.cpp(100): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  TestDuilib.vcxproj -> C:\Users\Administrator\source\repos\TestDuilib\x64\Debug\TestDuilib.exe

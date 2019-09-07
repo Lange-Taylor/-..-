@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="577,321">
+    <VerticalLayout width="577" height="276" bkimage="C:\Users\Administrator\source\repos\TestDuilib\Debug\skin\u=3628331808,2951460672&amp;fm=26&amp;gp=0.jpg">
+        <Edit name="EDIT_USER_NAME" tooltip="请输入用户名" float="true" pos="328,65,0,0" width="195" height="36" bkcolor="#FFFFFFFF" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+        <Edit name="EDIT_USER_PASSWORD" tooltip="输入用户密码" float="true" pos="328,118,0,0" width="195" height="36" bkcolor="#FFFFFFFF" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" password="true" />
+        <HorizontalLayout width="577" height="44">
+            <Button name="BTN_MIN" text="缩小" float="true" pos="469,3,0,0" width="53" height="42" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" />
+            <Button name="BTN_CLOSE" text="关闭" float="true" pos="522,3,0,0" width="53" height="42" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" />
+        </HorizontalLayout>
+        <Button name="BTN_LOGIN" text="登录" float="true" pos="377,172,0,0" width="99" height="41" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" />
+        <Label float="true" pos="270,64,0,0" width="34" height="34" bkimage="C:\Users\Administrator\source\repos\TestDuilib\Debug\skin\下载 (1).jpg" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+        <Label float="true" pos="269,119,0,0" width="34" height="34" bkimage="C:\Users\Administrator\source\repos\TestDuilib\Debug\skin\u=3664587538,1441721042&amp;fm=26&amp;gp=0.jpg" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+    </VerticalLayout>
+</Window>
